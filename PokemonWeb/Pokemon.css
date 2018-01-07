@@ -1,0 +1,25 @@
+body {
+	background-color: gold;
+	font-family: Arial;
+}
+
+thead {
+	background-color: purple;
+}
+
+img {
+	border-style: solid;
+	border-width: 20px;
+	border-bottom-color: pink;
+	border-top-color: grey;
+	width: 70%;
+	height: 60%;
+	margin-left: 20px;
+	}
+td.first {
+	background-color: blue;
+}
+table {
+	width: 700px;
+	color:red;
+}

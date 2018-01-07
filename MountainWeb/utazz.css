@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:300');
+html, body 
+{
+	height: 100%;
+}
+
+body 
+{ 
+margin: 0px;
+}
+
+.felsocsik 
+{
+	background-image: url("mountain.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100%;
+}
+
+h1 
+{
+	font-family: 'Work Sans', sans-serif;
+	margin: 0px;
+	font-size: 50px;
+	position: relative;
+	left: 230px;
+	top: 170px;
+	color: red;
+}
+
+.gomb
+{
+	background-color: green;
+	padding: 20px;
+	color: white;
+	font-family: Arial;
+	text-decoration: none;
+	position: relative;
+	left: 330px;
+	top: 250px;
+}
